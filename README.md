@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/medsagou/expenses-chart-component.git](https://github.com/medsagou/expenses-chart-component.git)
+- Live Site URL: [https://medsagou.github.io/expenses-chart-component/](https://medsagou.github.io/expenses-chart-component/)
 
 ## My process
 no process just keep going when you get stack.
